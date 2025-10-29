@@ -16,7 +16,6 @@
 
 **Programming Languages**
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
@@ -63,7 +62,7 @@
 
 ### 📫 Connect with Me
 <p>
-  <a href="www.linkedin.com/in/yeswanth-jogi-67950a2a7" target="_blank">
+  <a href="https://www.linkedin.com/in/yeswanth-jogi-67950a2a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="yeswanthj666@gmail.com">
