@@ -1,4 +1,4 @@
-# Hi, I'm Yeswanth 👋
+# Hi, I'm Yaswanth Jogi 👋
 
 I’m a final-year Computer Science student — building web apps and learning full-stack development. I enjoy solving problems and working on practical projects.
 
