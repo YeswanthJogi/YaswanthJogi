@@ -1,74 +1,86 @@
-<h1 align="center">Hi there 👋, I'm Yaswanth Jogi!</h1>
-<h3 align="center">💻 MERN Stack Developer | ☁️ Exploring Cloud & DevOps | 🚀 Always Learning</h3>
+<h1 align="center">Hi there 👋, I'm Yeswanth Jogi!</h1>
+<h3 align="center">🚀 MERN Stack Developer | ☁️ Exploring Cloud & DevOps | 🌱 Always Learning</h3>
 
 ---
 
-### 🧠 About Me
-- 🎓 I'm pursuing **B.Tech in Computer Science & Engineering** — Andhra University College of Engineering *(2022–2026)*
-- 💻 Passionate about **Full Stack Development** and building impactful web applications
-- 🌱 Currently exploring **Cloud Technologies (AWS, Azure)** and **DevOps**
-- ⚙️ Interested in developing scalable and optimized applications
-- 🧩 I enjoy solving **DSA problems** and learning new technologies
+### 🧠 About Me  
+💡 Passionate about Full-Stack Web Development and Problem Solving  
+🌱 Currently exploring **Cloud Computing & DevOps**  
+💬 Ask me about **MERN Stack, Java, REST APIs, and Web Hosting**  
+🎯 Focused on building scalable and responsive web apps  
 
 ---
 
-### 💼 Tech Stack
+### 💻 Tech Stack  
 
-**Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+#### 🧩 Programming Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+#### 🎨 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+#### ⚙️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+#### 🧰 Tools & Platforms  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Internship Experience  
+
+#### 🧑‍💻 Web Developer Intern — FixMyMill *(Visakhapatnam, Feb 2024 – Apr 2024)*  
+- Designed responsive UIs using **Figma, HTML, CSS, and JavaScript**  
+- Ensured cross-device compatibility using media queries  
+- Deployed on **Vercel** and collaborated via **GitHub**
+
+#### 💻 Web Developer Intern — CodSoft *(Remote, Jun 2024 – Jul 2024)*  
+- Built a **personal portfolio and travel booking website** using HTML & CSS  
+- Focused on **accessibility, performance, and responsive design**
+
+---
+
+### 🚀 Projects  
+
+#### 🍴 [TastyThreads — Recipe Sharing Platform](#)
+**Tech Stack:** ReactJS · Node.js · Express.js · MongoDB  
+- Developed a modern recipe-sharing web app with user authentication  
+- Built a responsive frontend and secure backend integration  
+- Used MongoDB for persistent data storage  
+
+#### 🚲 [CycleRestore — Cycle Repair Service Platform](#)
+**Tech Stack:** HTML · CSS · JavaScript  
+- Designed a responsive and user-friendly platform for cycle repairs  
+- Focused on **cross-device accessibility and smooth user experience**
+
+---
+
+### 🎓 Education  
+
+**🎓 Andhra University College of Engineering, Visakhapatnam**  
+_B.Tech in Computer Science and Engineering (2022 – 2026)_  
+
+---
+
+### 🌐 Connect with Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeswanthJogi&show_icons=true&theme=radical" alt="yeswanthjogi stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeswanthJogi&theme=radical" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeswanthJogi&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-### 📫 Connect with Me
-<p>
   <a href="https://www.linkedin.com/in/yeswanth-jogi-67950a2a7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="yeswanthj666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/yeswanthjogi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐️ *From [YeswanthJogi](https://github.com/YeswanthJogi)*
+<h4 align="center">✨ "Code. Learn. Build. Repeat." ✨</h4>
